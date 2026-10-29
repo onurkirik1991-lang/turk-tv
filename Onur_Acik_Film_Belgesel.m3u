@@ -1,0 +1,18 @@
+#EXTM3U
+#PLAYLIST:Onur | Açık Film ve Belgesel Deneme Arşivi
+# Türkçe ticari dizi/film arşivi değildir. 2 kısa film, 2 animasyon serisi bölümü, 1 sessiz görsel belgesel.
+# Yayınlar orijinal dilindedir. M3U listesi; IBO üzerinde afiş, seri hiyerarşisi, izleme ilerlemesi ve Movies menüsü davranışı TV üzerinde sınanmalıdır.
+# Blender Foundation | https://www.blender.org | https://peach.blender.org/about/ | https://durian.blender.org/sharing/
+# Orijinal tam filmler, jenerikleriyle birlikte sunulur. Big Buck Bunny: CC BY 3.0. Caminandes: Blender Institute açık film projesi.
+# NASA Scientific Visualization Studio | https://svs.gsfc.nasa.gov/4619/ | Müziksiz/sessiz görselleştirme seçildi.
+# Dosya içeriği yeniden barındırılmaz; resmî video.blender.org ve svs.gsfc.nasa.gov kaynaklarına bağlantı verilir.
+#EXTINF:150 tvg-id="vod.23f3ef79-15dc-44c5-aa45-cf92e78a4509" tvg-name="Caminandes S01E03 - Llamigos (Diyalogsuz)" tvg-logo="https://video.blender.org/lazy-static/thumbnails/23f3ef79-15dc-44c5-aa45-cf92e78a4509.jpg" group-title="Seri | Caminandes Animasyon",Caminandes S01E03 - Llamigos (Diyalogsuz)
+https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4
+#EXTINF:146 tvg-id="vod.fb70d459-48d2-4db5-adba-813c84f9200a" tvg-name="Caminandes S01E02 - Gran Dillama (Diyalogsuz)" tvg-logo="https://video.blender.org/lazy-static/thumbnails/fb70d459-48d2-4db5-adba-813c84f9200a.jpg" group-title="Seri | Caminandes Animasyon",Caminandes S01E02 - Gran Dillama (Diyalogsuz)
+https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4
+#EXTINF:654 tvg-id="vod.cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5" tvg-name="Elephants Dream (2006) - İngilizce Kısa Film" tvg-logo="https://video.blender.org/lazy-static/thumbnails/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5.jpg" group-title="Filmler | Açık Lisanslı Kısa Filmler",Elephants Dream (2006) - İngilizce Kısa Film
+https://video.blender.org/object-storage/web_videos/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4
+#EXTINF:596 tvg-id="vod.bf1f3fb5-b119-4f9f-9930-8e20e892b898" tvg-name="Big Buck Bunny (2008) - Diyalogsuz Animasyon" tvg-logo="https://video.blender.org/lazy-static/thumbnails/bf1f3fb5-b119-4f9f-9930-8e20e892b898.jpg" group-title="Filmler | Açık Lisanslı Kısa Filmler",Big Buck Bunny (2008) - Diyalogsuz Animasyon
+https://video.blender.org/object-storage/web_videos/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4
+#EXTINF:278 tvg-id="vod.nasa4619" tvg-name="Ay Turu - NASA (Sessiz Görsel Belgesel)" tvg-logo="" group-title="Belgesel | NASA - Sessiz Görseller",Ay Turu - NASA (Sessiz Görsel Belgesel)
+http://svs.gsfc.nasa.gov/vis/a000000/a004600/a004619/moontour_720p30.mp4
